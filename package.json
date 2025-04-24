@@ -1,18 +1,17 @@
 {
-	"name": "nodejs-app",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"start": "node index.js",
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"build": "echo 'No build process defined yet'"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"dependencies": {
-		"express": "^4.18.2",
-		"toystack": "^1.0.12"
-	}
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build process defined yet'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
